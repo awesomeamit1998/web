@@ -1,0 +1,25 @@
+h1{
+  color: blue
+}
+h3{
+  color: #d83ccb
+}
+div{
+  background:pink;
+  border-color:red;
+  border-width:thin;
+  border-style:double;
+}
+span{
+  background: violet;
+  border-color:red;
+  border-width:5px;
+  border-style:double;
+}
+body{
+  background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/RRPDKvk/beverly-hills-california-ca-famous-beverly-hills-hotel-exclusive-hotel-for-the-rich-and-famous_4yt9yzo14__F0000.png");
+  background-repeat:no-repeat;
+}
+h3+ul{
+  border:4px dotted purple;
+}
