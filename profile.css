@@ -1,0 +1,23 @@
+body{
+
+
+
+    font-family: 'Questrial', sans-serif;
+
+    font-family: 'Tangerine', cursive;
+
+    font-family: 'Kreon', serif;
+
+
+  background-color: #011627;
+  color: #FDFFFC;
+  text-align: center;
+  border: 40px solid #2EC486;
+  border-top: 0px;
+  border-radius: 15px;
+}
+p{
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5%;
+}
