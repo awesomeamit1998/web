@@ -1,0 +1,23 @@
+body{
+  font-family: 'Oswald', sans-serif;
+  background-repeat: no-repeat;
+  background-color: black;
+  color: #FDFFFC;
+  text-align: center;
+  border: 40px solid #2EC486;
+  border-top: 0px;
+  border-bottom: 0px;
+  margin: 0px;
+}
+main{
+  animation-duration: 4.5s;
+  animation-delay: 2s;
+}
+#my
+{
+  position: fixed;
+   right: 0;
+   bottom: 0;
+   min-width: 100%;
+   min-height: 100%;
+}
