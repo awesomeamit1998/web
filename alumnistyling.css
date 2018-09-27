@@ -10,7 +10,7 @@ body{
   margin: 0px;
 }
 main{
-  animation-duration: 4.5s;
+  animation-duration: 3s;
   animation-delay: 2s;
 }
 #my
@@ -20,4 +20,10 @@ main{
    bottom: 0;
    min-width: 100%;
    min-height: 100%;
+}
+.quote{
+  font-family: 'Cedarville Cursive', cursive;
+  color: green;
+  animation-duration: 3s;
+  animation-delay: 2s;
 }
